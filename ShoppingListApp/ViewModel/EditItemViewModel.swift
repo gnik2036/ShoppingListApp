@@ -14,6 +14,5 @@ class EditItemViewModel: ObservableObject {
     }
     
     func updateItem() {
-        // Update the item, perhaps using a service or notifying a view model
     }
 }

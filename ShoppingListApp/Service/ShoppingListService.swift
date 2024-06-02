@@ -8,5 +8,4 @@
 import Foundation
 
 class ShoppingListService {
-    // This can be expanded to include database operations or API calls
 }
